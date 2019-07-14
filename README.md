@@ -1,3 +1,3 @@
 # rubicsearch
 
-![An exmample image](example_images.png "An example image")
+![An example image](example_image.png "An example image")
